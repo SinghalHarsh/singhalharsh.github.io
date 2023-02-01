@@ -1,6 +1,6 @@
 project:
   type: website
-
+  output-dir: docs
 website:
   title: "Harsh Singhal"
   site-url: https://singhalharsh.github.io/
