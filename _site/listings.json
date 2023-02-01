@@ -1,0 +1,21 @@
+[
+  {
+    "listing": "/talks.html",
+    "items": [
+      "/talks/2020-12-15-OrcaHello/index.html",
+      "/talks/2018-10-18-msba_devops/index.html",
+      "/talks/2018-7-28-Model-Building-Explainability-Deployment/index.html",
+      "/talks/2017-11-08-Transfer-Learning/index.html",
+      "/talks/2017-10-11-deep-dive-in-hierarchichal-clustering/index.html",
+      "/talks/2017-09-13-introduction-to-keras/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": []
+  },
+  {
+    "listing": "/blog.html",
+    "items": []
+  }
+]
