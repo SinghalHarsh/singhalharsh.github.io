@@ -14,36 +14,36 @@ website:
       - icon: newspaper
         href: blog.qmd
         text: Blog
-      - icon: megaphone
-        href: talks.qmd
-        text: Talks
+      # - icon: megaphone
+      #   href: talks.qmd
+      #   text: Talks
       - icon: file-person
         href: about.qmd
         text: About
-      - text: Other
-        icon: stack
-        menu:
-          - text: "Carlson Q&A"
-            icon: box-arrow-up-right
-            href: other/carlson.qmd
-          - text: "Pytorch Book"
-            icon: box-arrow-up-right
-            href: https://aayushmnit.com/pytorch_book/
+      # - text: Other
+      #   icon: stack
+      #   menu:
+      #     - text: "Carlson Q&A"
+      #       icon: box-arrow-up-right
+      #       href: other/carlson.qmd
+      #     - text: "Pytorch Book"
+      #       icon: box-arrow-up-right
+      #       href: https://aayushmnit.com/pytorch_book/
+
+            # shayari, quotes, pics
     right:
-      - icon: github
-        href: https://github.com/aayushmnit/
       - icon: linkedin
-        href: https://www.linkedin.com/in/aayushmnit/
+        href: https://www.linkedin.com/in/harshsinghal726/
+      - icon: github
+        href: https://github.com/SinghalHarsh
       - icon: medium
-        href: https://medium.com/@aayushmnit
-      - icon: mastodon
-        href: https://sigmoid.social/@aayushmnit
-      - icon: twitter
-        href: https://twitter.com/aayushmnit
+        href: https://medium.com/@harshsinghal726
+      - icon: youtube
+        href: https://www.youtube.com/channel/UCKH0vGj3x3kMpsFaXNvtnVg
       - icon: envelope
-        href: mailto:aayushmnit@gmail.com
-      - icon: rss
-        href: blog.xml
+        href: mailto:harshsinghal726@gmail.com
+      - icon: code
+        href: https://leetcode.com/harshsinghal726/
 
 
 format:

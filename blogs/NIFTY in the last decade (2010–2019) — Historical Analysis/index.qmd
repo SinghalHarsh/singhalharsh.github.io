@@ -1,0 +1,8 @@
+---
+title: 'NIFTY in the last decade (2010–2019) — Historical Analysis'
+author: "Harsh Singhal"
+date: "2020-09-04"
+categories: [EDA, Data Analysis, Stock Market]
+image: "image.jpg"
+---
+[Medium.com](https://medium.com/analytics-vidhya/nifty-in-the-last-decade-2010-2019-historical-analysis-9d681e6e0b21)

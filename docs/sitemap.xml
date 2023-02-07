@@ -1,43 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://singhalharsh.github.io/blogs/Statistics — Moments of a distribution/index.html</loc>
+    <lastmod>2023-02-07T18:29:50.044Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs/Convolutional Neural Network with TensorFlow implementation/index.html</loc>
+    <lastmod>2023-02-07T18:29:50.425Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs/WhatsApp Chat 📱 — Analyze 🔍, Visualize 📊/index.html</loc>
+    <lastmod>2023-02-07T18:29:50.799Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs/FIRST WORLD TEST CHAMPIONSHIP [2019–2021]/index.html</loc>
+    <lastmod>2023-02-07T18:29:51.144Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs/Git — Most frequently used commands/index.html</loc>
+    <lastmod>2023-02-07T18:29:51.495Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs/Historical Returns of NIFTY50, NIFTY Midcap50, NIFTY Smallcap50 Companies/index.html</loc>
+    <lastmod>2023-02-07T18:29:51.830Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs/NIFTY in the last decade (2010–2019) — Historical Analysis/index.html</loc>
+    <lastmod>2023-02-07T18:29:52.176Z</lastmod>
+  </url>
+  <url>
     <loc>https://singhalharsh.github.io/talks.html</loc>
-    <lastmod>2023-02-01T18:18:00.738Z</lastmod>
+    <lastmod>2023-02-07T18:29:52.676Z</lastmod>
   </url>
   <url>
     <loc>https://singhalharsh.github.io/talks/2020-12-15-OrcaHello/index.html</loc>
-    <lastmod>2023-02-01T18:18:01.175Z</lastmod>
+    <lastmod>2023-02-07T18:29:53.027Z</lastmod>
   </url>
   <url>
     <loc>https://singhalharsh.github.io/talks/2017-09-13-introduction-to-keras/index.html</loc>
-    <lastmod>2023-02-01T18:18:01.545Z</lastmod>
+    <lastmod>2023-02-07T18:29:53.403Z</lastmod>
   </url>
   <url>
     <loc>https://singhalharsh.github.io/talks/2018-7-28-Model-Building-Explainability-Deployment/index.html</loc>
-    <lastmod>2023-02-01T18:18:01.900Z</lastmod>
+    <lastmod>2023-02-07T18:29:53.739Z</lastmod>
   </url>
   <url>
     <loc>https://singhalharsh.github.io/talks/2017-11-08-Transfer-Learning/index.html</loc>
-    <lastmod>2023-02-01T18:18:02.269Z</lastmod>
+    <lastmod>2023-02-07T18:29:54.084Z</lastmod>
   </url>
   <url>
     <loc>https://singhalharsh.github.io/talks/2018-10-18-msba_devops/index.html</loc>
-    <lastmod>2023-02-01T18:18:02.619Z</lastmod>
+    <lastmod>2023-02-07T18:29:54.434Z</lastmod>
   </url>
   <url>
     <loc>https://singhalharsh.github.io/talks/2017-10-11-deep-dive-in-hierarchichal-clustering/index.html</loc>
-    <lastmod>2023-02-01T18:18:02.959Z</lastmod>
+    <lastmod>2023-02-07T18:29:54.768Z</lastmod>
   </url>
   <url>
     <loc>https://singhalharsh.github.io/index.html</loc>
-    <lastmod>2023-02-01T18:18:03.420Z</lastmod>
+    <lastmod>2023-02-07T18:29:55.166Z</lastmod>
   </url>
   <url>
     <loc>https://singhalharsh.github.io/about.html</loc>
-    <lastmod>2023-02-01T18:18:03.916Z</lastmod>
+    <lastmod>2023-02-07T18:29:55.545Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs copy/2022-09-19-SyntheticControl/2022-09-19_SyntheticControl.html</loc>
+    <lastmod>2023-02-07T18:29:57.977Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs copy/2022-11-10-StableDiffusionP4/2022-11-10-StableDiffusionP4.html</loc>
+    <lastmod>2023-02-07T18:29:58.597Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs copy/2022-10-26-Model_Calibration/Model Calibration.html</loc>
+    <lastmod>2023-02-07T18:29:59.897Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs copy/2018-06-03-Building_neural_network_from_scratch/index.html</loc>
+    <lastmod>2023-02-07T18:30:00.500Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs copy/2022-11-17-DiffEdit/2022-11-17-DiffEdit.html</loc>
+    <lastmod>2023-02-07T18:30:01.520Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs copy/2018-10-28-Leaf_Disease_detection_by_Tranfer_learning_using_FastAI_V1_library/index.html</loc>
+    <lastmod>2023-02-07T18:30:01.844Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs copy/2022-11-02-StabeDiffusionP1/2022-11-02-StableDiffusionP1.html</loc>
+    <lastmod>2023-02-07T18:30:02.282Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs copy/2019-03-17-Finding_similar_images_using_Deep_learning_and_Locality_Sensitive_Hashing/index.html</loc>
+    <lastmod>2023-02-07T18:30:02.636Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs copy/2022-12-20-PythonFundamentals/Python OOPs Fundamentals.html</loc>
+    <lastmod>2023-02-07T18:30:03.257Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs copy/2019-02-17-Multi_Facial_attribute_detection_using_FastAI_and_OpenCV/index.html</loc>
+    <lastmod>2023-02-07T18:30:03.630Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs copy/2022-11-07-StableDiffusionP3/2022-11-07-StableDiffusionP3.html</loc>
+    <lastmod>2023-02-07T18:30:04.660Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs copy/2022-09-23-Explainability/2022-09-23-Explainability.html</loc>
+    <lastmod>2023-02-07T18:30:05.728Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs copy/2019-01-05-Multi_Layer_perceptron_using_Fastai_and_Pytorch/index.html</loc>
+    <lastmod>2023-02-07T18:30:06.092Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs copy/2018-04-17-Business_usecases_by_recommender_system_using_lightFM/index.html</loc>
+    <lastmod>2023-02-07T18:30:06.918Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs copy/2022-11-05-StableDiffusionP2/2022-11-05-StableDiffusionP2.html</loc>
+    <lastmod>2023-02-07T18:30:07.690Z</lastmod>
+  </url>
+  <url>
+    <loc>https://singhalharsh.github.io/blogs copy/2018-09-12-Multi_Layer_perceptron_using_Tensorflow/index.html</loc>
+    <lastmod>2023-02-07T18:30:08.032Z</lastmod>
   </url>
   <url>
     <loc>https://singhalharsh.github.io/blog.html</loc>
-    <lastmod>2023-02-01T18:18:04.316Z</lastmod>
+    <lastmod>2023-02-07T18:30:09.343Z</lastmod>
   </url>
 </urlset>

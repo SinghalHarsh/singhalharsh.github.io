@@ -1,0 +1,8 @@
+---
+title: 'Statistics — Moments of a distribution'
+author: "Harsh Singhal"
+date: "2020-06-07"
+categories: [Statistics]
+image: "image.jpg"
+---
+[Medium.com](https://medium.com/analytics-vidhya/statistics-moments-of-a-distribution-1bcfc4cbbd48)

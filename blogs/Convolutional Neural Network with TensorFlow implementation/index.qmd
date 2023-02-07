@@ -1,0 +1,8 @@
+---
+title: 'Convolutional Neural Network with TensorFlow implementation'
+author: "Harsh Singhal"
+date: "2017-06-17"
+categories: [Deep Learning, CNN]
+image: "image.jpg"
+---
+[Medium.com](https://medium.com/data-science-group-iitr/building-a-convolutional-neural-network-in-python-with-tensorflow-d251c3ca8117)

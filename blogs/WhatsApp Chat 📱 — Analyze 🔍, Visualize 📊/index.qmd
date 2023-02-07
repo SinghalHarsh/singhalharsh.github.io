@@ -1,0 +1,8 @@
+---
+title: 'WhatsApp Chat 📱 — Analyze 🔍, Visualize 📊'
+author: "Harsh Singhal"
+date: "2020-08-09"
+categories: [EDA, Data Analysis]
+image: "image.jpg"
+---
+[Medium.com](https://medium.com/analytics-vidhya/whatsapp-chat-analyze-visualize-68e4d30be729)

@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-date','listing-description','listing-title','listing-reading-time','listing-categories','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -123,68 +123,39 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./talks.html"><i class="bi bi-megaphone" role="img">
-</i> 
- <span class="menu-text">Talks</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./about.html"><i class="bi bi-file-person" role="img">
 </i> 
  <span class="menu-text">About</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-other" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-      <i class="bi bi-stack" role="img">
-</i> 
- <span class="menu-text">Other</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-other">    
-        <li>
-    <a class="dropdown-item" href="./other/carlson.qmd"><i class="bi bi-box-arrow-up-right" role="img">
-</i> 
- <span class="dropdown-text">Carlson Q&amp;A</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="https://aayushmnit.com/pytorch_book/"><i class="bi bi-box-arrow-up-right" role="img">
-</i> 
- <span class="dropdown-text">Pytorch Book</span></a>
-  </li>  
-    </ul>
-  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/aayushmnit/"><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://www.linkedin.com/in/harshsinghal726/"><i class="bi bi-linkedin" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/in/aayushmnit/"><i class="bi bi-linkedin" role="img">
+    <a class="nav-link" href="https://github.com/SinghalHarsh"><i class="bi bi-github" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://medium.com/@aayushmnit"><i class="bi bi-medium" role="img">
+    <a class="nav-link" href="https://medium.com/@harshsinghal726"><i class="bi bi-medium" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://sigmoid.social/@aayushmnit"><i class="bi bi-mastodon" role="img">
+    <a class="nav-link" href="https://www.youtube.com/channel/UCKH0vGj3x3kMpsFaXNvtnVg"><i class="bi bi-youtube" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/aayushmnit"><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="mailto:harshsinghal726@gmail.com"><i class="bi bi-envelope" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="mailto:aayushmnit@gmail.com"><i class="bi bi-envelope" role="img">
-</i> 
- <span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="./blog.xml"><i class="bi bi-rss" role="img">
+    <a class="nav-link" href="https://leetcode.com/harshsinghal726/"><i class="bi bi-code" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
@@ -203,7 +174,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(7)</span></div><div class="category" data-category="CNN">CNN <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Cricket">Cricket <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Data Analysis">Data Analysis <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Deep Learning">Deep Learning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="EDA">EDA <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Git">Git <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Statistics">Statistics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Stock Market">Stock Market <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -252,7 +223,231 @@ ul.task-list li input[type="checkbox"] {
     </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
-
+<div class="g-col-1" data-index="0" data-categories="Stock Market,Data Analysis" data-listing-date-sort="1599935400000" data-listing-file-modified-sort="1675708824815" data-listing-reading-time-sort="0.005">
+<a href="./blogs/Historical Returns of NIFTY50, NIFTY Midcap50, NIFTY Smallcap50 Companies/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/Historical Returns of NIFTY50, NIFTY Midcap50, NIFTY Smallcap50 Companies/image.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Historical Returns of NIFTY50, NIFTY Midcap50, NIFTY Smallcap50 Companies
+</h5>
+<div class="listing-reading-time card-text text-muted">
+0 min
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Stock Market'); return false;">
+Stock Market
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Data Analysis'); return false;">
+Data Analysis
+</div>
+</div>
+<div class="card-text listing-description">
+Medium.com
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Sep 13, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="EDA,Data Analysis,Stock Market" data-listing-date-sort="1599157800000" data-listing-file-modified-sort="1675708629086" data-listing-reading-time-sort="0.005">
+<a href="./blogs/NIFTY in the last decade (2010–2019) — Historical Analysis/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/NIFTY in the last decade (2010–2019) — Historical Analysis/image.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+NIFTY in the last decade (2010–2019) — Historical Analysis
+</h5>
+<div class="listing-reading-time card-text text-muted">
+0 min
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('EDA'); return false;">
+EDA
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Data Analysis'); return false;">
+Data Analysis
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Stock Market'); return false;">
+Stock Market
+</div>
+</div>
+<div class="card-text listing-description">
+Medium.com
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Sep 4, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="EDA,Data Analysis" data-listing-date-sort="1596911400000" data-listing-file-modified-sort="1675704199447" data-listing-reading-time-sort="0.005">
+<a href="./blogs/WhatsApp Chat 📱 — Analyze 🔍, Visualize 📊/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/WhatsApp Chat 📱 — Analyze 🔍, Visualize 📊/image.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+WhatsApp Chat 📱 — Analyze 🔍, Visualize 📊
+</h5>
+<div class="listing-reading-time card-text text-muted">
+0 min
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('EDA'); return false;">
+EDA
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Data Analysis'); return false;">
+Data Analysis
+</div>
+</div>
+<div class="card-text listing-description">
+Medium.com
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Aug 9, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="Statistics" data-listing-date-sort="1591468200000" data-listing-file-modified-sort="1675708715867" data-listing-reading-time-sort="0.005">
+<a href="./blogs/Statistics — Moments of a distribution/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/Statistics — Moments of a distribution/image.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Statistics — Moments of a distribution
+</h5>
+<div class="listing-reading-time card-text text-muted">
+0 min
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Statistics'); return false;">
+Statistics
+</div>
+</div>
+<div class="card-text listing-description">
+Medium.com
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 7, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="Git" data-listing-date-sort="1585074600000" data-listing-file-modified-sort="1675708894707" data-listing-reading-time-sort="0.005">
+<a href="./blogs/Git — Most frequently used commands/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/Git — Most frequently used commands/image.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Git — Most frequently used commands
+</h5>
+<div class="listing-reading-time card-text text-muted">
+0 min
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Git'); return false;">
+Git
+</div>
+</div>
+<div class="card-text listing-description">
+Medium.com
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Mar 25, 2020
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="Cricket" data-listing-date-sort="1574447400000" data-listing-file-modified-sort="1675709554675" data-listing-reading-time-sort="0.005">
+<a href="./blogs/FIRST WORLD TEST CHAMPIONSHIP [2019–2021]/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/FIRST WORLD TEST CHAMPIONSHIP [2019–2021]/image.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+FIRST WORLD TEST CHAMPIONSHIP [2019–2021]
+</h5>
+<div class="listing-reading-time card-text text-muted">
+0 min
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Cricket'); return false;">
+Cricket
+</div>
+</div>
+<div class="card-text listing-description">
+Medium.com
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Nov 23, 2019
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="Deep Learning,CNN" data-listing-date-sort="1497637800000" data-listing-file-modified-sort="1675709326304" data-listing-reading-time-sort="0.005">
+<a href="./blogs/Convolutional Neural Network with TensorFlow implementation/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./blogs/Convolutional Neural Network with TensorFlow implementation/image.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Convolutional Neural Network with TensorFlow implementation
+</h5>
+<div class="listing-reading-time card-text text-muted">
+0 min
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Deep Learning'); return false;">
+Deep Learning
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('CNN'); return false;">
+CNN
+</div>
+</div>
+<div class="card-text listing-description">
+Medium.com
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 17, 2017
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items

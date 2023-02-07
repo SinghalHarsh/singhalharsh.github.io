@@ -1,5 +1,4 @@
 ---
-title: Welcome to aayushmnit.com
 comments: False
 format:
   html:
@@ -14,48 +13,92 @@ listing:
       - "title asc"
 about:
   id: about-me
-  template: solana
+  template: trestles
   image: headshot.png
-  image-shape: round
+  # image-shape: round
+  # image-width: 300px
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/aayushmnit/
+      href: https://www.linkedin.com/in/harshsinghal726/
     - icon: github
       text: GitHub
-      href: https://github.com/aayushmnit
+      href: https://github.com/SinghalHarsh
     - icon: medium
       text: Medium
-      href: https://medium.com/@aayushmnit  
-    - icon: mastodon
-      text: Mastodon
-      href: https://sigmoid.social/@aayushmnit
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/aayushmnit
-    - icon: clipboard-data
-      text: Kaggle
-      href: https://www.kaggle.com/aayushmnit
+      href: https://medium.com/@harshsinghal726
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/channel/UCKH0vGj3x3kMpsFaXNvtnVg
     - icon: envelope
       text: Email
-      href: mailto:aayushmnit@gmail.com
+      href: mailto:harshsinghal726@gmail.com
+    - icon: code
+      text: LeetCode
+      href: https://leetcode.com/harshsinghal726/
 ---
 
 :::{#about-me}
-I'm an experienced Data Scientist with specialized skills in machine learning-based solutions. I enjoy staying on top of cutting-edge data technologies, including big data platforms, deep learning, optimization methods, and business analytics. My current work involves building data-driven products to enable smarter recommendations for Microsoft Partners, M365 service administrators and end-users to ensure the best usage of M365 services. Before that, I have experience working in various verticals like agricultural technology, pharmaceuticals, retail, e-commerce, and ride-sharing business model.
 
-Read more about me [here](about.qmd).
+<style>
+  .button {
+    background-color: #000000;
+    color: white;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
 
+  p {
+    margin: 0;
+    padding: 0;
+  }
+</style>
+
+<script>
+  let index1 = 0;
+  const words1 = ['Data', 'data', 'dAta', 'datA', 'daTa', 'datA', 'datA', 'data'];
+  
+  setInterval(function() {
+    const word1 = words1[index1];
+    document.getElementById("text1").innerHTML = word1;
+    index1 = (index1 + 1) % words1.length;
+  }, 1000);
+</script>
+
+
+  
+
+<div style="font-family: Poppins;">
+  <br>
+  <p style="font-size: 20px; font-weight: bold;">Hi There 👋,</p>
+  <p style="font-size: 60px; font-weight: bold;">I'm <span style="color: #ff0000;" id="name">Harsh Singhal</span></p>
+  <p style="font-size: 28px;">I Am Into <span style="color: #008000; font-weight: bold;" id="name">Data Science</span></p>
+  <br>
+  <br>
+  <div style="border: 1px solid black; padding: 10px; width: fit-content;">
+  <p style="font-weight: bold;">
+    Give me the <span id="text1" style="text-decoration:underline; text-decoration-style: dotted;">data</span>, <br>
+    and I will turn it into a <span id="text2" style="font-size: 20px; text-decoration: underline;">STORY</span></p>
+  </div>
+  <br>
+  <br>
+  <button class="button" onclick="window.location.href='about.html/'">About Me</button>
+  <a class="button" style="margin-left: 10px" href="https://drive.google.com/file/d/1YHy9K1yV6QavORiBxYGW_-L0X_1rcWnE/view?usp=sharing" download>Download CV</a>
+  
+
+</div>
 
 :::
-Check out the latest draft of my book - ["The Pytorch Book"](https://aayushmnit.com/pytorch_book/). If you enjoy the content, please consider giving it a star✨ on [Github](https://github.com/aayushmnit/pytorch_book).
 
-:::::{.grid}
-::::{.g-col-12 .g-col-md-12}
-## Latest Blogs
-Click [here](blog.qmd) to check out more blogs.
+  <!-- Proficient in designing machine learning algorithms and leveraging statistical analysis to derive meaningful insights from data, enabling informed business decision-making.
+   -->
 
-:::{#landing-posts}
-:::
-::::
-:::::
+<!-- <img 
+  src="headshot.png" 
+  alt="Headshot" 
+  style="margin-top: -50px; display: block; margin-left: auto; margin-right: auto; border-radius: 50%; width: 20%;"
+> -->
