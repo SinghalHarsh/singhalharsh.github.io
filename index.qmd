@@ -92,6 +92,46 @@ about:
 
 </div>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://apis.google.com/js/api.js"></script>
+<script>
+
+// Replace YOUR_API_KEY with your actual API key
+var API_KEY = "YOUR_API_KEY";
+
+// Replace FOLDER_ID with the ID of your Google Drive folder
+var FOLDER_ID = "FOLDER_ID";
+
+// Get a list of file IDs in the folder
+$.get("https://www.googleapis.com/drive/v3/files", {
+    q: "mimeType='image/jpeg' and parents in '" + FOLDER_ID + "'",
+    fields: "nextPageToken, files(id, name)",
+    key: API_KEY
+}, function(data) {
+    var fileIds = [];
+    for (var i = 0; i < data.files.length; i++) {
+        fileIds.push(data.files[i].id);
+    }
+    
+    // Choose a random file ID from the list
+    var randomFileId = fileIds[Math.floor(Math.random() * fileIds.length)];
+    
+    // Display the image using an <img> element
+    $("#image-container").html("<img src='https://drive.google.com/uc?id=" + randomFileId + "' />");
+});
+</script>
+
+
+<div id="image-container"> Hello</div>
+
+
+
+
+
+
+
+
+
 :::
 
   <!-- Proficient in designing machine learning algorithms and leveraging statistical analysis to derive meaningful insights from data, enabling informed business decision-making.
