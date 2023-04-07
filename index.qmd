@@ -87,7 +87,7 @@ about:
   <br>
   <br>
   <button class="button" onclick="window.location.href='https://singhalharsh.github.io/about.html'">About Me</button>
-  <a class="button" style="margin-left: 10px" href="Harsh_Singhal_Resume.pdf" download>Download CV</a>
+  <a class="button" style="margin-left: 10px" href="Resume_Harsh_Singhal.pdf" download>Download CV</a>
   
 
 </div>
@@ -122,7 +122,6 @@ $.get("https://www.googleapis.com/drive/v3/files", {
 </script>
 
 
-<div id="image-container"> Hello</div>
 
 
 

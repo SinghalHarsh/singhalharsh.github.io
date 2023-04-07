@@ -1,14 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f5e52cc-9616-4775-96ad-46b7b89e2b7f" name="Changes" comment="" />
+    <list default="true" id="2f5e52cc-9616-4775-96ad-46b7b89e2b7f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../PandasProfiling/Profiling" beforeDir="false" afterPath="$PROJECT_DIR$/../PandasProfiling/Profiling" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PandasProfiling/temp_1/fds_profiling_/Profiling" beforeDir="false" afterPath="$PROJECT_DIR$/../PandasProfiling/temp_1/fds_profiling_/Profiling" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quora/data/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Stock-Market" beforeDir="false" afterPath="$PROJECT_DIR$/../Stock-Market" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amazon-product-review-scraper" beforeDir="false" afterPath="$PROJECT_DIR$/../amazon-product-review-scraper" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../associations" beforeDir="false" afterPath="$PROJECT_DIR$/../associations" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mail/.ipynb_checkpoints/mail-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mail/.ipynb_checkpoints/starter-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mail/mail.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mail/starter.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/search.json" beforeDir="false" afterPath="$PROJECT_DIR$/docs/search.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/docs/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.qmd" beforeDir="false" afterPath="$PROJECT_DIR$/index.qmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stock_market/Nifty-in-the-last-decade" beforeDir="false" afterPath="$PROJECT_DIR$/../stock_market/Nifty-in-the-last-decade" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
