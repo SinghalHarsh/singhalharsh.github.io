@@ -86,8 +86,11 @@ about:
   </div>
   <br>
   <br>
-  <button class="button" onclick="window.location.href='https://singhalharsh.github.io/about.html'">About Me</button>
-  <a class="button" style="margin-left: 10px" href="Resume_Harsh_Singhal.pdf" download>Download CV</a>
+  <button class="button" style="font-size: 19px;"
+  onclick="window.location.href='https://singhalharsh.github.io/about.html'">About Me</button>
+  <a class="button" style="margin-left: 10px; font-size: 19px;"
+  href="Resume_Harsh_Singhal.pdf" download>Download CV</a>
+
   
 
 </div>
