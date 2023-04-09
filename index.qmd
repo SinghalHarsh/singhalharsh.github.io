@@ -52,6 +52,10 @@ about:
     cursor: pointer;
   }
 
+  .button:hover {
+    color: #fff9d8;
+  }
+
   p {
     margin: 0;
     padding: 0;
@@ -88,8 +92,8 @@ about:
   <br>
   <button class="button" style="font-size: 16px;"
   onclick="window.location.href='https://singhalharsh.github.io/about.html'">About Me</button>
-  <button class="button" style="margin-left: 10px; font-size: 16px;"
-  href="Resume_Harsh_Singhal.pdf" download>Download CV</button>
+  <a class="button" style="margin-left: 10px; font-size: 16px;"
+  href="Resume_Harsh_Singhal.pdf" download>Download CV</a>
 
   
 
